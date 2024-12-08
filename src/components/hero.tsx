@@ -88,7 +88,7 @@ export const CardDetails = () => {
     },
     {
       id: 2,
-      img: "/images/pro7.jpg",
+      img: "/images/pro7.jpeg",
       title: "Leviosa",
       rate: "stylish Cafe Chair",
       price: "250,000",
@@ -191,7 +191,7 @@ export const Hero3 = () => {
 
       <div className="flex justify-center md:justify-end">
         <Image
-          src="/images/tem1.jpg"
+          src="/images/tem1.JPG"
           alt="hero"
           width={400}
           height={200}
@@ -200,7 +200,7 @@ export const Hero3 = () => {
       </div>
       <div className="flex justify-center md:justify-end">
         <Image
-          src="/images/tem2.jpg"
+          src="/images/tem2.JPG"
           alt="hero"
           width={400}
           height={200}
